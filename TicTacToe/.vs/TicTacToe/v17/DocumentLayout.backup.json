@@ -7,8 +7,20 @@
       "RelativeMoniker": "D:0:0:{0E7B48DB-147C-4169-AFEB-169DE93FD829}|TicTacToe\\TicTacToe.vcxproj|solutionrelative:TicTacToe\\TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\blzsll\\Documents\\SE-TicTacToe\\TicTacToe\\TicTacToe\\Model\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TicTacToe\\Model\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0E7B48DB-147C-4169-AFEB-169DE93FD829}|TicTacToe\\TicTacToe.vcxproj|C:\\Users\\blzsll\\Documents\\SE-TicTacToe\\TicTacToe\\TicTacToe\\Controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E7B48DB-147C-4169-AFEB-169DE93FD829}|TicTacToe\\TicTacToe.vcxproj|solutionrelative:TicTacToe\\Controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7B48DB-147C-4169-AFEB-169DE93FD829}|TicTacToe\\TicTacToe.vcxproj|C:\\Users\\blzsll\\Documents\\SE-TicTacToe\\TicTacToe\\TicTacToe\\Controller.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E7B48DB-147C-4169-AFEB-169DE93FD829}|TicTacToe\\TicTacToe.vcxproj|solutionrelative:TicTacToe\\Controller.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7B48DB-147C-4169-AFEB-169DE93FD829}|TicTacToe\\TicTacToe.vcxproj|C:\\Users\\blzsll\\Documents\\SE-TicTacToe\\TicTacToe\\TicTacToe\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E7B48DB-147C-4169-AFEB-169DE93FD829}|TicTacToe\\TicTacToe.vcxproj|solutionrelative:TicTacToe\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7B48DB-147C-4169-AFEB-169DE93FD829}|TicTacToe\\TicTacToe.vcxproj|C:\\Users\\blzsll\\Documents\\SE-TicTacToe\\TicTacToe\\TicTacToe\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E7B48DB-147C-4169-AFEB-169DE93FD829}|TicTacToe\\TicTacToe.vcxproj|solutionrelative:TicTacToe\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controller.cpp",
+              "DocumentMoniker": "C:\\Users\\blzsll\\Documents\\SE-TicTacToe\\TicTacToe\\TicTacToe\\Controller.cpp",
+              "RelativeDocumentMoniker": "TicTacToe\\Controller.cpp",
+              "ToolTip": "C:\\Users\\blzsll\\Documents\\SE-TicTacToe\\TicTacToe\\TicTacToe\\Controller.cpp*",
+              "RelativeToolTip": "TicTacToe\\Controller.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-05T13:45:58.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Controller.h",
+              "DocumentMoniker": "C:\\Users\\blzsll\\Documents\\SE-TicTacToe\\TicTacToe\\TicTacToe\\Controller.h",
+              "RelativeDocumentMoniker": "TicTacToe\\Controller.h",
+              "ToolTip": "C:\\Users\\blzsll\\Documents\\SE-TicTacToe\\TicTacToe\\TicTacToe\\Controller.h*",
+              "RelativeToolTip": "TicTacToe\\Controller.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-05T13:45:50.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Board.cpp",
+              "DocumentMoniker": "C:\\Users\\blzsll\\Documents\\SE-TicTacToe\\TicTacToe\\TicTacToe\\Board.cpp",
+              "RelativeDocumentMoniker": "TicTacToe\\Board.cpp",
+              "ToolTip": "C:\\Users\\blzsll\\Documents\\SE-TicTacToe\\TicTacToe\\TicTacToe\\Board.cpp",
+              "RelativeToolTip": "TicTacToe\\Board.cpp",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwD8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-05T13:35:24.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Board.h",
+              "DocumentMoniker": "C:\\Users\\blzsll\\Documents\\SE-TicTacToe\\TicTacToe\\TicTacToe\\Board.h",
+              "RelativeDocumentMoniker": "TicTacToe\\Board.h",
+              "ToolTip": "C:\\Users\\blzsll\\Documents\\SE-TicTacToe\\TicTacToe\\TicTacToe\\Board.h",
+              "RelativeToolTip": "TicTacToe\\Board.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-05T13:35:15.625Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,22 +92,9 @@
               "RelativeDocumentMoniker": "TicTacToe\\TicTacToe.cpp",
               "ToolTip": "C:\\Users\\blzsll\\Documents\\SE-TicTacToe\\TicTacToe\\TicTacToe\\TicTacToe.cpp*",
               "RelativeToolTip": "TicTacToe\\TicTacToe.cpp*",
-              "ViewState": "AgIAAEwAAAAAAAAAAADwv2sAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-07-05T13:08:55.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "\u6E90.cpp",
-              "DocumentMoniker": "C:\\Users\\blzsll\\Documents\\SE-TicTacToe\\TicTacToe\\TicTacToe\\Model\\\u6E90.cpp",
-              "RelativeDocumentMoniker": "TicTacToe\\Model\\\u6E90.cpp",
-              "ToolTip": "C:\\Users\\blzsll\\Documents\\SE-TicTacToe\\TicTacToe\\TicTacToe\\Model\\\u6E90.cpp",
-              "RelativeToolTip": "TicTacToe\\Model\\\u6E90.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-07-05T13:04:36.34Z",
               "EditorCaption": ""
             }
           ]
