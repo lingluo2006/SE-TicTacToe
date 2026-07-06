@@ -11,7 +11,7 @@ void Controller::run()
     {
         view.showBoard(board);
 
-        view.getInput(x, y, player);
+        view.getInput(x, y);
 
         if (!board.place(x, y, player))
         {
@@ -22,11 +22,17 @@ void Controller::run()
         if (board.checkWin(player))
         {
             view.showBoard(board);
-            view.showMessage("游戏结束！获胜者：");
+            view.showMessage(std::string("游戏结束！获胜者：") + player);
             break;
         }
 
-        // 换人
+        if (board.isFull())
+        {
+            view.showBoard(board);
+            view.showMessage("游戏结束：平局！");
+            break;
+        }
+
         player = (player == 'X') ? 'O' : 'X';
     }
 }
