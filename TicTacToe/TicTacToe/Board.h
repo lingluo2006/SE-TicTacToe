@@ -10,7 +10,8 @@ public:
 
     bool place(int x, int y, char player); // ÏÂÆå
     bool checkWin(char player);            // ÅĞ¶ÏÊ¤Àû
-
+public:
+    char get(int x, int y) const;
 private:
     char grid[3][3];
 };

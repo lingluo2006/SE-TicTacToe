@@ -126,10 +126,12 @@
     <ClCompile Include="Board.cpp" />
     <ClCompile Include="Controller.cpp" />
     <ClCompile Include="TicTacToe.cpp" />
+    <ClCompile Include="View.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Board.h" />
     <ClInclude Include="Controller.h" />
+    <ClInclude Include="View.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

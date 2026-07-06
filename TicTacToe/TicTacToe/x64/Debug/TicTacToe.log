@@ -1,4 +1,6 @@
-﻿  Controller.cpp
+﻿  Board.cpp
+  Controller.cpp
   TicTacToe.cpp
+  View.cpp
   正在生成代码...
   TicTacToe.vcxproj -> C:\Users\blzsll\Documents\SE-TicTacToe\TicTacToe\x64\Debug\TicTacToe.exe

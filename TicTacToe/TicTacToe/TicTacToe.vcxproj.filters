@@ -33,6 +33,9 @@
     <ClCompile Include="Controller.cpp">
       <Filter>Controller</Filter>
     </ClCompile>
+    <ClCompile Include="View.cpp">
+      <Filter>View</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Board.h">
@@ -40,6 +43,9 @@
     </ClInclude>
     <ClInclude Include="Controller.h">
       <Filter>Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="View.h">
+      <Filter>View</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

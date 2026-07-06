@@ -88,3 +88,7 @@ void Board::print()
         cout << "-------------" << endl;
     }
 }
+char Board::get(int x, int y) const
+{
+    return grid[x][y];
+}

@@ -1,37 +1,32 @@
-#include <iostream>
 #include "Controller.h"
-#include "Board.h"
-
-using namespace std;
 
 void Controller::run()
 {
-    Board board;
-    board.reset();
-
     char player = 'X';
     int x, y;
 
+    board.reset();
+
     while (true)
     {
-        board.print();
+        view.showBoard(board);
 
-        cout << "玩家 " << player << " 输入坐标: ";
-        cin >> x >> y;
+        view.getInput(x, y, player);
 
         if (!board.place(x, y, player))
         {
-            cout << "无效位置！" << endl;
+            view.showMessage("非法落子，请重试");
             continue;
         }
 
         if (board.checkWin(player))
         {
-            board.print();
-            cout << "玩家 " << player << " 赢了！" << endl;
+            view.showBoard(board);
+            view.showMessage("游戏结束！获胜者：");
             break;
         }
 
+        // 换人
         player = (player == 'X') ? 'O' : 'X';
     }
 }
